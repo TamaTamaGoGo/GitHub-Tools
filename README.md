@@ -6,4 +6,4 @@ Bash script to install, purge, reinstall and manage git!
 
 or
 
-    wget jajaja && sudo chmod +x install && ./install
+    wget https://raw.githubusercontent.com/TamaTamaGoGo/GitHub-Tools/main/install/install && sudo chmod +x install && ./install
